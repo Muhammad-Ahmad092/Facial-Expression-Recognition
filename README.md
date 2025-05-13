@@ -13,7 +13,7 @@ critical role of data preprocessing in AI and paves the way for more accurate em
 applications like healthcare, education, and smart devices. Check out the full blog and code repository for more 
 insights!
 
-https://lnkd.in/dQ-RDRgf
+https://medium.com/@mahmad92001/balancing-emotion-recognition-datasets-a-case-study-on-fer2013-happy-vs-neutral-d5c6f9466613
 
 
 ![Portfolio Preview](https://github.com/Muhammad-Ahmad092/Facial-Expression-Recognition/blob/main/A%20futuristic%2C%20tech-style%20thumbnail%20for%20a%20machine%20learning%20blog.%20Centered%20AI%20face%20or%20neural%20network%20visualization%20split%20into%20two%20expressions%20%E2%80%94%20one%20side%20smiling%20(Happy)%2C%20the%20other%20calm%20(Neutral).%20Subtle%20icon.png)
